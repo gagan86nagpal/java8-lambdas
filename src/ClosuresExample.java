@@ -6,6 +6,7 @@ public class ClosuresExample {
     }
 
     public static void doProcess(int a,Process p) {
+
         p.doProcess(a);
     }
 }

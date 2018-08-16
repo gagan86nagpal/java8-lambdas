@@ -11,6 +11,3 @@ public class ClosuresExample {
     }
 }
 
-interface Process {
-    void doProcess(int i);
-}
